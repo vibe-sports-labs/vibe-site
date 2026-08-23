@@ -1,0 +1,1 @@
+const STORE_LINKS={ios:"https://apps.apple.com/",android:"https://play.google.com/store/apps/"};document.querySelectorAll("[data-store]").forEach(a=>{a.href=STORE_LINKS[a.dataset.store]||"#";a.target="_blank";a.rel="noopener noreferrer"});document.getElementById("year").textContent=new Date().getFullYear();
