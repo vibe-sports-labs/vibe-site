@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.vibe_sports_labs.project",
+      "sha256_cert_fingerprints": [
+        "3A:43:68:6A:E0:7A:95:D1:54:E9:3A:3E:F1:9E:85:6F:2E:53:28:1B:32:41:D2:AC:A9:D8:77:C0:02:55:EB:DA"
+      ]
+    }
+  }
+]
