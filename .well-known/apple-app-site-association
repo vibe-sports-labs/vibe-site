@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "7JQ745P4GG.org.vibe-sports-labs.project.vibe-sports-labs"
+        ],
+        "components": [
+          {
+            "/": "/match/*",
+            "comment": "Vibe Sports match links"
+          },
+          {
+            "/": "/place/*",
+            "comment": "Vibe Sports place links"
+          }
+        ]
+      }
+    ]
+  }
+}
